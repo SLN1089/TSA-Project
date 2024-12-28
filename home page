@@ -1,8 +1,12 @@
-<!DOCTYPE html> 
+  <!DOCTYPE html>
   <html>
-    <head>
+    <head> <h1>Hello</h1>
+        <h2>Hello</h2>
     </head>
     <body>
-      <h1>Hello World</h1>
+      <h1 style="color:pink">Hello World</h1>
+      <p>Hello! This is a paragraph!
+        blah blah blah
+      </p>
     </body>
-  </html>
+  </html> 
